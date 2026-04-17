@@ -30,6 +30,9 @@ https://jsonplaceholder.typicode.com/users. Use ListView.builder com
 cards mostrando nome e email. Adicione um CircularProgressIndicator
 enquanto carrega e uma mensagem de erro se a requisição falhar.
 Use StatefulWidget com setState.
+
+
+Use o flutter instalado em: C:\Users\SEURA\Documents\flutter\flutter\bin\flutter 
 ```
 
 ### Por que funciona?
